@@ -1,0 +1,29 @@
+{
+  "name": "shrugy",
+  "version": "1.0.0",
+  "description": "shrug-er than a bug in a rug",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdaringe/shrugy.git"
+  },
+  "keywords": [
+    "shrug",
+    "shrugy"
+  ],
+  "author": "cdaringe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cdaringe/shrugy/issues"
+  },
+  "bin": {
+    "shrug": "bin/shrug.js"
+  },
+  "homepage": "https://github.com/cdaringe/shrugy#readme",
+  "devDependencies": {
+    "tape": "^4.2.0"
+  }
+}
