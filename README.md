@@ -2,6 +2,8 @@
 
 # shrugy
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/cdaringe/shrugy.svg)](https://greenkeeper.io/)
+
 Get serious about shruggin'.
 
 ## install
